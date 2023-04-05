@@ -1,3 +1,0 @@
-/home/sammy/rocketry_ground_sensors/BOTR-Ground-Sensor-Array/build/pioasm/CMakeFiles/rebuild_cache.dir
-/home/sammy/rocketry_ground_sensors/BOTR-Ground-Sensor-Array/build/pioasm/CMakeFiles/edit_cache.dir
-/home/sammy/rocketry_ground_sensors/BOTR-Ground-Sensor-Array/build/pioasm/CMakeFiles/pioasm.dir
