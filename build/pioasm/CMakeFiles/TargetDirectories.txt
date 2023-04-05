@@ -1,0 +1,3 @@
+/home/sammy/rocketry_ground_sensors/custom/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/sammy/rocketry_ground_sensors/custom/build/pioasm/CMakeFiles/edit_cache.dir
+/home/sammy/rocketry_ground_sensors/custom/build/pioasm/CMakeFiles/pioasm.dir
